@@ -1,6 +1,10 @@
 # landroid_hass_picture-element
 
 ![Screenshot of Landroid Card in Home Assistant](home-assistant-screenshot.png)
+
+Prerequesites
+Landroid Mower
+[Halandroid Integration Barma-lej/halandroid Integration](https://github.com/Barma-lej/halandroid)
 ```
 elements:
   - entity: sensor.landroid_mower_battery
