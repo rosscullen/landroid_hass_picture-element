@@ -5,6 +5,12 @@
 **Prerequesites**
 - Landroid Mower
 - [Halandroid Integration from Barma-lej](https://github.com/Barma-lej/halandroid)
+
+**Instructions**
+1. Copy the "landrdoid-picture-card-wg796e.png to the folder "www/mower" in your Home Assistant main folder
+2. Create a new Lovelace card in Home Assistant
+3. Choose "Manual" card at the bottom
+4. Paste in the code below into the box (replace all existing text).
 ```
 elements:
   - entity: sensor.landroid_mower_battery
