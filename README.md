@@ -6,6 +6,7 @@ Changes to add:
 - tidy up readme
 - copy of original code in its own file
 - link to other references
+- other card images for different models
 
 ![Screenshot of Landroid Card in Home Assistant](home-assistant-screenshot.png)
 
