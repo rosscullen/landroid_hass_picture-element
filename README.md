@@ -4,7 +4,7 @@
 
 **Prerequesites**
 - Landroid Mower
-- [Halandroid Integration Barma-lej/halandroid Integration](https://github.com/Barma-lej/halandroid)
+- [Halandroid Integration from Barma-lej](https://github.com/Barma-lej/halandroid)
 ```
 elements:
   - entity: sensor.landroid_mower_battery
