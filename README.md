@@ -1,4 +1,11 @@
-# landroid_hass_picture-element
+# Landroid Home Assistant Picture Element
+
+In progress.
+Changes to add:
+- add credit to source of this code
+- tidy up readme
+- copy of original code in its own file
+- link to other references
 
 ![Screenshot of Landroid Card in Home Assistant](home-assistant-screenshot.png)
 
@@ -7,7 +14,7 @@
 - [Halandroid Integration from Barma-lej](https://github.com/Barma-lej/halandroid)
 
 **Instructions**
-1. Copy the "landrdoid-picture-card-wg796e.png to the folder "www/mower" in your Home Assistant main folder
+1. Copy the "landrdoid-picture-card-wg796e.png" to the folder "www/mower" in your Home Assistant main folder
 2. Create a new Lovelace card in Home Assistant
 3. Choose "Manual" card at the bottom
 4. Paste in the code below into the box (replace all existing text).
